@@ -1,6 +1,6 @@
 # Selection Sort (Java)
 
-## 📌 What is Selection Sort?
+##  What is Selection Sort?
 Selection Sort is a **simple comparison-based sorting algorithm**.  
 It works by **repeatedly selecting the smallest element** from the unsorted part of the array and placing it at the correct position in the sorted part.
 
@@ -10,7 +10,7 @@ The array is divided into:
 
 ---
 
-## 🧠 Basic Idea (Easy to Remember)
+##  Basic Idea (Easy to Remember)
 1. Assume the **first element is the minimum**
 2. Compare it with all remaining elements
 3. Find the **actual minimum**
@@ -20,7 +20,7 @@ The array is divided into:
 
 ---
 
-## 🪜 Algorithm (Step-by-Step)
+##  Algorithm (Step-by-Step)
 
 1. Start from index `0`
 2. Find the smallest element in the unsorted array
@@ -30,7 +30,7 @@ The array is divided into:
 
 ---
 
-## 🔢 Example
+##  Example
 
 ### Input
 64 25 12 22 11
