@@ -1,6 +1,6 @@
-# 🫧 Bubble Sort (Iterative & Recursive)
+#  Bubble Sort (Iterative & Recursive)
 
-## 📌 Introduction
+##  Introduction
 
 Bubble Sort is a simple comparison-based sorting algorithm.  
 It repeatedly compares adjacent elements in an array and swaps them if they are in the wrong order.
@@ -10,7 +10,7 @@ This process continues until the entire array is sorted.
 
 ---
 
-# 🔁 Iterative Bubble Sort
+#  Iterative Bubble Sort
 
 ## 🔹 How It Works
 
@@ -49,7 +49,7 @@ The iterative version is memory-efficient because it does not use recursion.
 
 ---
 
-# 🔁 Recursive Bubble Sort
+#  Recursive Bubble Sort
 
 ## 🔹 How It Works
 
@@ -85,7 +85,7 @@ Recursive version consumes additional memory because each recursive call adds a 
 
 ---
 
-# 📊 Comparison: Iterative vs Recursive Bubble Sort
+#  Comparison: Iterative vs Recursive Bubble Sort
 
 | Feature | Iterative Bubble Sort | Recursive Bubble Sort |
 |----------|----------------------|-----------------------|
@@ -100,7 +100,7 @@ Recursive version consumes additional memory because each recursive call adds a 
 
 ---
 
-# 🏁 Conclusion
+#  Conclusion
 
 Both iterative and recursive bubble sort follow the same core principle:
 
