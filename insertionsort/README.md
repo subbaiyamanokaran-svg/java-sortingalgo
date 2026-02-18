@@ -1,15 +1,15 @@
-# 📌 Insertion Sort in Java
+#  Insertion Sort in Java
 
 This project demonstrates the **Insertion Sort algorithm** implemented in **Java**, including:
 
-- ✅ Iterative Insertion Sort  
-- ✅ Recursive Insertion Sort  
+-  Iterative Insertion Sort  
+-  Recursive Insertion Sort  
 
 Insertion Sort is a simple and intuitive sorting technique, often compared to arranging playing cards in your hand.
 
 ---
 
-## 🧠 What is Insertion Sort?
+##  What is Insertion Sort?
 
 Insertion Sort builds the final sorted array **one element at a time**.
 
@@ -29,9 +29,9 @@ Initially:
 
 ---
 
-# 🔁 Iterative Insertion Sort
+#  Iterative Insertion Sort
 
-## ⚙️ Algorithm Steps
+##  Algorithm Steps
 
 1. Start from the second element (index `1`)
 2. Store the current element as `key`
@@ -42,7 +42,7 @@ Initially:
 
 ---
 
-## 🕒 Time Complexity
+##  Time Complexity
 
 | Case | Complexity |
 |------|------------|
@@ -52,14 +52,14 @@ Initially:
 
 ---
 
-## 📦 Space Complexity
+##  Space Complexity
 
 - **O(1)** (In-place sorting)
 - No extra memory required
 
 ---
 
-## ✅ Advantages
+##  Advantages
 
 - Simple to understand
 - Efficient for small datasets
@@ -68,7 +68,7 @@ Initially:
 
 ---
 
-# 🔄 Recursive Insertion Sort
+#  Recursive Insertion Sort
 
 Recursive Insertion Sort follows the same logic but uses **recursion** instead of loops.
 
@@ -78,7 +78,7 @@ Instead of iterating, the function:
 
 ---
 
-## ⚙️ Algorithm Steps (Recursive)
+##  Algorithm Steps (Recursive)
 
 1. Base Case:
    - If the array size is `0` or `1`, return (already sorted)
@@ -91,7 +91,7 @@ Instead of iterating, the function:
 
 ---
 
-## 🕒 Time Complexity (Recursive)
+##  Time Complexity (Recursive)
 
 | Case | Complexity |
 |------|------------|
@@ -101,14 +101,14 @@ Instead of iterating, the function:
 
 ---
 
-## 📦 Space Complexity (Recursive)
+##  Space Complexity (Recursive)
 
 - **O(n)** due to recursive call stack
 - Uses additional memory compared to iterative version
 
 ---
 
-# 🔍 Iterative vs Recursive Comparison
+#  Iterative vs Recursive Comparison
 
 | Feature | Iterative | Recursive |
 |----------|------------|------------|
@@ -120,7 +120,7 @@ Instead of iterating, the function:
 
 ---
 
-# 🎯 When to Use Insertion Sort?
+#  When to Use Insertion Sort?
 
 - Small datasets
 - Nearly sorted arrays
@@ -129,7 +129,7 @@ Instead of iterating, the function:
 
 ---
 
-# 🏁 Conclusion
+#  Conclusion
 
 Insertion Sort is a foundational sorting algorithm that:
 
