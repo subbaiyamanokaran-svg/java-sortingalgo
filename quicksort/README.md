@@ -1,4 +1,4 @@
-# ⚡ Quick Sort in Java
+#  Quick Sort in Java
 
 This project demonstrates the implementation of the **Quick Sort algorithm** using **Java**.
 
@@ -6,7 +6,7 @@ Quick Sort is a **Divide and Conquer** algorithm that efficiently sorts elements
 
 ---
 
-## 📌 What is Quick Sort?
+##  What is Quick Sort?
 
 Quick Sort works by:
 
@@ -18,7 +18,7 @@ Quick Sort works by:
 
 ---
 
-## 🔄 How It Works
+##  How It Works
 
 ### 1. Partition Function
 - Chooses the **last element as pivot**
@@ -36,7 +36,7 @@ Quick Sort works by:
 
 ---
 
-## 🧠 Algorithm Steps
+##  Algorithm Steps
 
 1. Pick a pivot element  
 2. Partition the array around the pivot  
@@ -45,7 +45,7 @@ Quick Sort works by:
 
 ---
 
-## 📊 Time Complexity
+## Time Complexity
 
 | Case         | Complexity   |
 |--------------|-------------|
@@ -55,13 +55,13 @@ Quick Sort works by:
 
 ---
 
-## 💾 Space Complexity
+## Space Complexity
 
 - **O(log n)** (recursive stack space)
 
 ---
 
-## ⚙️ Features
+##  Features
 
 - In-place sorting (no extra memory required)
 - Efficient for large datasets
@@ -69,7 +69,7 @@ Quick Sort works by:
 
 ---
 
-## ▶️ Example
+## Example
 
 **Input:**
 [10, 7, 8, 9, 1, 5]
